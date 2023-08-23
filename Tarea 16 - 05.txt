@@ -1,0 +1,17 @@
+Tarea 16 - 05
+
+Buscar un metodo en internet, que muestre en pantalla sin que yo haga nada "Presione una tecla para continuar" - palabra reservada
+
+Reemplazar el valor de la poscion 1 (vista de progrmacion), por la palabra "Dato alterado"
+
+El metodo remove trabaja con el valor no la poscion.
+
+Capture 5 nombres proporcionados por el usuario, utilizar vectores:
+Mostrar en pantalla los datos almacenados y realice una pausa de teclaDe los siguientes registros, elimine el que se encuentre en la posición 2Modifique el nombre almacenado en la posición 1 por: “Dato alterado”Muestre nuevamente los registros y realice una pausa de tecla
+
+Llenar por usuario un vector de salarios:
+Cantidad de determinada por el usuario
+Mostrar los salarios, agrupados por cantidades con decimales y enteros
+Mostrar en pantalla, cuál de los dos fue la moda
+Mostrar la mayor cantidad ingresada
+Mostrar la menor cantidad ingresada 
